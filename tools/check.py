@@ -2,7 +2,7 @@ import sys
 
 
 def main(msg):
-    expected = f"Hello {msg}"
+    expected = msg.strip()
     result = ""
     for line in sys.stdin:
         result += line
