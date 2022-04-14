@@ -6,7 +6,7 @@
 
 ### 期中考(補考)： 
 
-* 問題 1 (hw01)：印出 `Hello STUST`
+* 問題 01：印出 `Hello STUST`
 
-* 問題 2 (hw02)：印出 `Hello Github Classroom`
+* 問題 02：印出 `Hello Github Classroom`
 
